@@ -1,13 +1,11 @@
-# Projeto XXXX
-## FPRO/MIEIC, 2021/22
-## Fulano de Tal (up2021xxxxx)
-## 1MIEICXX
+# Projeto FP
+## FPRO/LEIC, 2021/22
+## Guilherme Koch (up202108760)
+## 1LEIC04
 
 ### Objetivo
 
-1. Criar um clone do clássico Sokoban em Pygame...
-
-2. Em alternativa... do clássico x em Pygame.
+1. Criar um jogo inspirado no clássico BangBang!
 
 ### Repositório de código
 
@@ -26,9 +24,8 @@
 
 ### Descrição
 
-*---É um jogo de puzzle em que o objetivo do jogo é empurrar caixotes para um sítio indicado. 
-Para empurrar o caixote é preciso ir ao outro lado empurrá-lo. 
-Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Estamos a utilizar os níveis do XSokoban.---*
+*---É um jogo no qual o jogador controla um tanque. Pode andar para a esquerda e para a direita bem como alterar 
+o ângulo e a força do disparo com o intuito de destruir o tanque enimigo---*
 
 ### UI
 
@@ -37,6 +34,8 @@ Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Est
 ### Pacotes
 
 - Pygame
+- Time
+- Random
 
 ### Tarefas
 
