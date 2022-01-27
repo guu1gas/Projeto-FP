@@ -34,7 +34,6 @@ o ângulo e a força do disparo com o intuito de destruir o tanque enimigo---*
 ### Pacotes
 
 - Pygame
-- Time
 - Random
 
 ### Tarefas
