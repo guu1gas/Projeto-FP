@@ -25,7 +25,7 @@
 ### Descrição
 
 *---É um jogo no qual o jogador controla um tanque. Pode andar para a esquerda e para a direita bem como alterar 
-o ângulo e a força do disparo com o intuito de destruir o tanque enimigo---*
+o ângulo e a força do disparo com o intuito de destruir o tanque inimigo---*
 
 ### UI
 
